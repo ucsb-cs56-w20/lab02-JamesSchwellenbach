@@ -1,7 +1,7 @@
 # lab02-JamesSchwellenbach
 
 Javadoc: https://ucsb-cs56-w20.github.io/lab02-JamesSchwellenbach/
-Repo: https://ucsb-cs56-w20/lab02-JamesSchwellenbach
+Repo: https://github.com/ucsb-cs56-w20/lab02-JamesSchwellenbach
 
 # About this repo
 
